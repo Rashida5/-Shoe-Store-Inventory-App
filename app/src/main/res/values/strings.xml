@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">MyFirstProject</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Email_hint">Add your email</string>
+    <string name="EmailLabel">Email</string>
+    <string name="Password_hint">add your password</string>
+    <string name="Passwordlabel">Password</string>
+    <string name="btn_in">Sign in</string>
+    <string name="btn_up">Sign up</string>
+    <string name="StoreName">Shoe Store</string>
+    <string name="WelcomText">Welcom</string>
+    <string name="btn_sec_fra">Next</string>
+    <string name="Aboutus">AboutUs</string>
+    <string name="txt">  Stores that have been established since 1980,
+                         characterized by the quality of products and their appropriate prices for all categories,
+                          and we have provided the application to see the latest products and their prices
+                         What you need only to add shoes you see appropriate to your list
+                         you must add all fields
+    </string>
+    <string name="Shoe_List">Shoe_List</string>
+    <string name="size">Enter your size</string>
+    <string name="Company">Enter your Company</string>
+    <string name="colorshoe">Enter color</string>
+    <string name="Savebutton">Save</string>
+    <string name="cancel">Cancel</string>
+</resources>

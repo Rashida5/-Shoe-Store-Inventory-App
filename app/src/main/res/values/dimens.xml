@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="EmailLabelPaddingLeft">80dp</dimen>
+    <dimen name="textsizemail">25sp</dimen>
+    <dimen name="NameTextSize">60sp</dimen>
+    <dimen name="padingAbout">80dp</dimen>
+    <dimen name="btn_margin_about">150dp</dimen>
+    <dimen name="spacing">11dp</dimen>
+    <dimen name="leftFloat">350dp</dimen>
+    <dimen name="topFloat">550dp</dimen>
+    <dimen name="WidthSize">272dp</dimen>
+    <dimen name="widthShoename">272dp</dimen>
+    <dimen name="widthCompany">272dp</dimen>
+    <dimen name="widthColor">272dp</dimen>
+</resources>
